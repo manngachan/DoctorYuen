@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DoctorYuen</string>
+    <string name="content_description">photoInsert</string>
+    <string name="dr_name">Yuen Hak Kin MD</string>
+    <string name="practice">Internal medicine</string>
+    <string name="contact">Contact Us</string>
+    <string name="address">3640 Main Street, #501</string>
+    <string name="city_state_zip">Flushing, NY 11354</string>
+    <string name="country">USA</string>
+    <string name="phone">Tel + 1 718 353 2226</string>
+</resources>
